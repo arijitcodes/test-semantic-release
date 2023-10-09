@@ -8,8 +8,8 @@
     "start": "node lib/index.js",
     "dev": "nodemon src/index.ts name=Arijit",
     "build": "rm -rf ./dist && tsc -p .",
-    "pack": "npm pack .",
-    "prepare": "npm run build && npm run pack",
+    "packBuild": "rm -rf ./build.tar.gz && tar -cvzf build.tar.gz dist docs package.json",
+    "prepare": "npm run build && npm run packBuild",
     "semantic-release": "semantic-release"
   },
   "repository": {
