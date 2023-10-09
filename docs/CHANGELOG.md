@@ -1,3 +1,10 @@
+## [0.1.8](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.7...v0.1.8) (2023-10-09)
+
+
+### Bug Fixes
+
+* **semantic-release/github:** :bug: Fix Attempt - For [#3](https://github.com/arijitcodes/test-semantic-release/issues/3) GitHub File Scatter on Publish ([84efb46](https://github.com/arijitcodes/test-semantic-release/commit/84efb463832451e9bf67ebd9f67a252ea5d49a37))
+
 ## [0.1.7](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.6...v0.1.7) (2023-10-09)
 
 
