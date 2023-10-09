@@ -8,8 +8,8 @@
       "@semantic-release/github",
       {
         "assets": [
+          ["dist/**/*", "docs/**/*"],
           {
-            "path": ["dist/**/*", "docs/**/*"],
             "label": "JS Build"
           }
         ]
