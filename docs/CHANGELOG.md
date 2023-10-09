@@ -1,3 +1,10 @@
+## [0.1.13](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.12...v0.1.13) (2023-10-09)
+
+
+### Bug Fixes
+
+* **semantic-release/github:** :bug: Fix: Generating Zip & Fixing GitHub Release File Scatter Issue ([8678918](https://github.com/arijitcodes/test-semantic-release/commit/8678918a0f8640aa59a4f9760f88d1250ad1535f)), closes [#3](https://github.com/arijitcodes/test-semantic-release/issues/3)
+
 ## [0.1.12](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.11...v0.1.12) (2023-10-09)
 
 
