@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.4...v0.1.5) (2023-10-09)
+
+
+### Bug Fixes
+
+* **semantic-release/github:** :bug: fix: Another attempt to fix for - GitHub Release File Scattering ([3ab751a](https://github.com/arijitcodes/test-semantic-release/commit/3ab751ab9e715692fc85466272c5766b525f3087)), closes [/github.com/arijitcodes/test-semantic-release/issues/3#issuecomment-1753142237](https://github.com//github.com/arijitcodes/test-semantic-release/issues/3/issues/issuecomment-1753142237) [#3](https://github.com/arijitcodes/test-semantic-release/issues/3)
+
 ## [0.1.4](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.3...v0.1.4) (2023-10-09)
 
 
