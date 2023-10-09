@@ -9,8 +9,8 @@
       {
         "assets": {
           "path": "./build.tar.gz",
-          "name": "@arijitcodes/test-semantic-release_${nextRelease.version}.tgz",
-          "label": "Build ${nextRelease.version}"
+          "name": "@arijitcodes-test-semantic-release_v${nextRelease.version}.tgz",
+          "label": "Build v${nextRelease.version}"
         }
       }
     ],
