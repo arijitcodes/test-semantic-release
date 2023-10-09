@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.13...v1.0.0) (2023-10-09)
+
+
+### Features
+
+* **index:** re-Wrote the whole base ([683ab34](https://github.com/arijitcodes/test-semantic-release/commit/683ab34521c95cad03667ddc45d28035ab73af4d))
+
+
+### BREAKING CHANGES
+
+* **index:** The function wont work with args anymore. You have to call it and pass the name.
+
 ## [0.1.13](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.12...v0.1.13) (2023-10-09)
 
 
