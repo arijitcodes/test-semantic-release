@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/arijitcodes/test-semantic-release#readme",
   "files": [
-    "dist/**/*"
+    "dist/**/*",
+    "docs/**/*"
   ],
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
