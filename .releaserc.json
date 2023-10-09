@@ -19,9 +19,7 @@
     [
       "@semantic-release/github",
       {
-        "assets": [
-          { "path": ["dist/**/*", "./docs"], "label": "JS Distribution" }
-        ]
+        "assets": ["dist", "docs"]
       }
     ]
   ]
