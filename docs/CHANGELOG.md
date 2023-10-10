@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.3...v1.0.4) (2023-10-10)
+
+
+### Bug Fixes
+
+* **readme:** fixed README ([e5862f7](https://github.com/arijitcodes/test-semantic-release/commit/e5862f75a7a1ece4ff80da6f2b6db99954356742))
+
 ## [1.0.3](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.2...v1.0.3) (2023-10-10)
 
 
