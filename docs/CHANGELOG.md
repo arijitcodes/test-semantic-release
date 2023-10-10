@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.1...v1.0.2) (2023-10-10)
+
+
+### Bug Fixes
+
+* **package.json:** 🐛 fixed - removed TS from Dependency and addes as Dev Dependency ([#11](https://github.com/arijitcodes/test-semantic-release/issues/11)) ([#12](https://github.com/arijitcodes/test-semantic-release/issues/12)) ([873cfb1](https://github.com/arijitcodes/test-semantic-release/commit/873cfb1fd821bf3799ed58b806a2add294ec0293)), closes [#3](https://github.com/arijitcodes/test-semantic-release/issues/3)
+
 ## [1.0.1](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.0...v1.0.1) (2023-10-10)
 
 
