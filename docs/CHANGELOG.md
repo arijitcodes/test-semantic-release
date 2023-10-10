@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.0...v1.0.1) (2023-10-10)
+
+
+### Bug Fixes
+
+* **commitizen:** 🐛Fixed Commitizen Setup Change - Rollback to conventional changelog ([#9](https://github.com/arijitcodes/test-semantic-release/issues/9)) ([50d57c1](https://github.com/arijitcodes/test-semantic-release/commit/50d57c18badf920aa58df35f6e83c8c53fbc6ff3)), closes [#7](https://github.com/arijitcodes/test-semantic-release/issues/7)
+
 # [1.0.0](https://github.com/arijitcodes/test-semantic-release/compare/v0.1.13...v1.0.0) (2023-10-09)
 
 
