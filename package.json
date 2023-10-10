@@ -1,6 +1,6 @@
 {
   "name": "@arijitcodes/test-semantic-release",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Testing Semantic Release",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
