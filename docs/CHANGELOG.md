@@ -1,3 +1,21 @@
+## [1.0.15](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.14...v1.0.15) (2023-10-11)
+
+
+### Bug Fixes
+
+✅ **config:** @semantic-release/release-notes-generator ([002a02f](https://github.com/arijitcodes/test-semantic-release/commit/002a02f1c1929348dd5ce21c85642eeba210c465))  
+
+Trying to fix again
+  
+\
+✅ **readme:** updated README ([005d79d](https://github.com/arijitcodes/test-semantic-release/commit/005d79d06a9d6bee6f50731bf0163fa9d20f8589))  
+
+updated the README File
+1. Let's see how it goes
+2. Changed lines
+  
+\
+
 ## [1.0.14](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.13...v1.0.14) (2023-10-11)
 
 
