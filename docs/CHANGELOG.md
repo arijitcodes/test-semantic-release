@@ -1,3 +1,21 @@
+## [1.0.11](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.10...v1.0.11) (2023-10-11)
+
+
+### Bug Fixes
+
+✅
+  <b>@semantic-release/release-notes-generator: </b>changin the release-notes-generator config again([6a25bb9](https://github.com/arijitcodes/test-semantic-release/commit/6a25bb931a534ca97bc15d81bd2a8862482386cf))  
+  Trying to fix the formatting
+✅
+  <b>@semantic-release/release-notes-generator: </b>changing it again([463fd53](https://github.com/arijitcodes/test-semantic-release/commit/463fd5387901c302b6436d9363a029c0d068684a))  
+  1. Trying to see if the formatting works
+2. Lets see how this goes
+✅
+  <b>docs: </b>ficed README([d97fc21](https://github.com/arijitcodes/test-semantic-release/commit/d97fc212121bf2a5c9a794ccb88f644ba296ef6c))  
+  1. Fixed Typo
+2. Added New Line
+3. Let's see how this formats.
+
 ## [1.0.10](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.9...v1.0.10) (2023-10-11)
 
 
