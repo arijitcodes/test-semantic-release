@@ -1,3 +1,23 @@
+## [1.0.17](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.16...v1.0.17) (2023-10-11)
+
+
+### Bug Fixes
+
+<br/>✅ **@semantic-release/release-notes-generator:** fixing again ([d7abf33](https://github.com/arijitcodes/test-semantic-release/commit/d7abf33bf3355da5643bd9003cd2c2c91ecffaa4))  
+
+Trying to fix it again
+1. adding 2 < br > tags at the end of body
+2. Lets see if it works <br/><br/>
+  
+<br/>✅ **readme:** udpated readme again ([a76af89](https://github.com/arijitcodes/test-semantic-release/commit/a76af89a5a44c0167b60234764dd4694f630fdcd))  
+
+Added a new headline in readme <br/><br/>
+  
+<br/>✅ **readme:** updated README ([c474d42](https://github.com/arijitcodes/test-semantic-release/commit/c474d42c402564342ff05f228b3940edca03f9bc))  
+
+* removed line 5
+* removed line 4 <br/><br/>
+
 ## [1.0.16](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.15...v1.0.16) (2023-10-11)
 
 
