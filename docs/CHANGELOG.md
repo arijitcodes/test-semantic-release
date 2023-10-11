@@ -1,3 +1,13 @@
+## [1.0.5](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.4...v1.0.5) (2023-10-11)
+
+
+### Bug Fixes
+
+✅
+  **commitizen:**updated Commitizen Release Note Generator Config ([#32](https://github.com/arijitcodes/test-semantic-release/issues/32))([a21b459](https://github.com/arijitcodes/test-semantic-release/commit/a21b4592f369edd3e328b086f1d2be7c67355a6c))  
+  * Added code in commit.hbs to complete the setup for @semantic-release/release-notes-generator
+* Now semantic-release should include details of a commit msg
+
 ## [1.0.4](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.3...v1.0.4) (2023-10-10)
 
 
