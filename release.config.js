@@ -10,12 +10,14 @@ module.exports = {
       "@semantic-release/release-notes-generator",
       {
         writerOpts: {
-          /* commitPartial: readFileSync(
+          commitPartial: readFileSync(
             join(__dirname, "./configs/commit.hbs"),
             "utf-8"
-          ), */
-          commitPartial:
+          ),
+
+          /* commitPartial:
             "*{{#if scope}} **{{scope}}:**\n{{~/if}} {{#if subject}}\n  {{~subject}}\n{{~else}}\n  {{~header}}\n{{~/if}}\n\n{{~!-- commit link --}}{{~#if hash}} {{#if @root.linkReferences~}}\n  ([{{shortHash}}](\n  {{~#if @root.repository}}\n    {{~#if @root.host}}\n      {{~@root.host}}/\n    {{~/if}}\n    {{~#if @root.owner}}\n      {{~@root.owner}}/\n    {{~/if}}\n    {{~@root.repository}}\n  {{~else}}\n    {{~@root.repoUrl}}\n  {{~/if}}/\n  {{~@root.commit}}/{{hash}}))\n{{~else}}\n  {{~shortHash}}\n{{~/if}}{{~/if}}\n\n{{~!-- commit references --}}\n{{~#if references~}}\n  , closes\n  {{~#each references}} {{#if @root.linkReferences~}}\n    [\n    {{~#if this.owner}}\n      {{~this.owner}}/\n    {{~/if}}\n    {{~this.repository}}{{this.prefix}}{{this.issue}}]({{@root.host}}/{{@root.owner}}/_workitems/edit/{{this.issue}})\n  {{~else}}\n    {{~#if this.owner}}\n      {{~this.owner}}/\n    {{~/if}}\n    {{~this.repository}}{{this.prefix}}{{this.issue}}\n  {{~/if}}{{/each}}\n{{~/if}}{{#if body}}\n{{body}}{{/if}}\n",
+             */
         },
       },
     ],
