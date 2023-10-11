@@ -1,3 +1,26 @@
+## [1.0.18](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.17...v1.0.18) (2023-10-11)
+
+
+### Bug Fixes
+
+✅ **@semantic-release/release-notes-generator:** final Fix ([dea4cfa](https://github.com/arijitcodes/test-semantic-release/commit/dea4cface5ba562e812a9310acd7c2e2842685c4))  
+
+Final Fix for @semantic-release/release-notes-generator config
+* In last push we added 2 < br >
+tags at the end pf body
+* In this one we are removing the < br > from top of body which we forgot
+to remove on the previous one <br/><br/>
+  
+✅ **readme:** uPDATED Readme again ([e263e18](https://github.com/arijitcodes/test-semantic-release/commit/e263e185299d4d52193d7be2b134cab59820f217))  
+
+Added two line-breaks <br/><br/>
+  
+✅ **readme:** uPDATED README.md ([9ec5ccb](https://github.com/arijitcodes/test-semantic-release/commit/9ec5ccbf7b182da015c319692b37a9364df40db7))  
+
+1. Updated README.md File
+2. Removed the last line
+3. Added a new line <br/><br/>
+
 ## [1.0.17](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.16...v1.0.17) (2023-10-11)
 
 
