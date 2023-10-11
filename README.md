@@ -2,6 +2,8 @@
 
 ## ADDING SOME MORE INFO
 
+### Some headline
+
 Some information that we added
 
 line 1
