@@ -1,3 +1,28 @@
+## [1.0.12](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.11...v1.0.12) (2023-10-11)
+
+
+### Bug Fixes
+
+✅ **@semantic-release/release-notes-generator:** changing config again ([65b27aa](https://github.com/arijitcodes/test-semantic-release/commit/65b27aa571aa05400ba122d5a93d9ee3d89d3a5f))  
+
+- The problem was with the Auto Formatting of Prettier
+- Let's see if it's fixed now
+  
+<br />
+✅ **@semantic-release/release-notes-generator:** final Fix (Hopefully) ([37b5f27](https://github.com/arijitcodes/test-semantic-release/commit/37b5f2798aa003c6f8d43ef6f4afd453c3b1f4ee))  
+
+Final Fix lets see
+  
+<br />
+✅ **readme:** updated Readme ([9694893](https://github.com/arijitcodes/test-semantic-release/commit/9694893de849f55c41afd68c6ab500c1504bc985))  
+
+Updated the README file.
+1. Removed Line 5
+2. Edited it
+3. Saved It
+  
+<br />
+
 ## [1.0.11](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.10...v1.0.11) (2023-10-11)
 
 
