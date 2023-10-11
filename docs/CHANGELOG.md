@@ -1,3 +1,32 @@
+## [1.0.10](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.9...v1.0.10) (2023-10-11)
+
+
+### Bug Fixes
+
+✅
+  <b>configs/commit.hbs: </b>fixed Parse Error in Config([d057ad9](https://github.com/arijitcodes/test-semantic-release/commit/d057ad969786180f383ccccc1a5ef7319806df67))<br />
+✅
+  <b>configs/commit.hbs: </b>retry: Fix Config([cfca17c](https://github.com/arijitcodes/test-semantic-release/commit/cfca17c91ab2f451839e67864675eeb5c77b1338))<br />
+✅
+  <b>config: </b>trying to fix config parse error for @semantic-release/release-notes-generator([6fd8f3b](https://github.com/arijitcodes/test-semantic-release/commit/6fd8f3b3de07561b33739ec98c1a932b714d5721))  
+  - Tried to fix the hbs module in configs/commit.hbs
+- Added some formatting<br />
+✅
+  <b>readme: </b>fixed readme([d67e139](https://github.com/arijitcodes/test-semantic-release/commit/d67e1390caf803b79026a26f1fd69303e3c37d32))  
+  Removed Line 5<br />
+✅
+  <b>readme: </b>updated Readme([16f3728](https://github.com/arijitcodes/test-semantic-release/commit/16f37287c178c219b52c50e11be47c09460ce485))  
+  * Added Line 3
+* Added Line 4<br />
+✅
+  <b>semantic-release: </b>rolling Back to previous config for changelog-generator([9e48049](https://github.com/arijitcodes/test-semantic-release/commit/9e48049d6e0cb6e72e94160fa43c5d14d61c3564))  
+  Falling back to previous config of @semantic-release/release-notes-generator with the
+congis/commit.hbs module
+
+* Commented Down the in-config text settings
+* Setup the old config
+through the config file<br />
+
 ## [1.0.9](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.8...v1.0.9) (2023-10-11)
 
 
