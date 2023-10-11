@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.6...v1.0.7) (2023-10-11)
+
+
+### Bug Fixes
+
+* **commitizen:** commitizen Config Fix ([632e289](https://github.com/arijitcodes/test-semantic-release/commit/632e289e2f68a61fa9e7411124bca9afed06205a))
+Fixed the Commitizen Config
+
 ## [1.0.6](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.5...v1.0.6) (2023-10-11)
 
 
