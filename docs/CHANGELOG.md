@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.5...v1.0.6) (2023-10-11)
+
+
+### Bug Fixes
+
+* **semantic-release:** a change in custom log generation module ([5cf1b8c](https://github.com/arijitcodes/test-semantic-release/commit/5cf1b8ca0ef82ac7a46617f6ae834659f6ea6b14))
+Updating the semantic-release/release-notes-generator config to check how is the new config.
+
 ## [1.0.5](https://github.com/arijitcodes/test-semantic-release/compare/v1.0.4...v1.0.5) (2023-10-11)
 
 
